@@ -1,3 +1,3 @@
 # panda-demo
-This is my first Git Repository
+This is my first Git Repository.
 Aythor - Mr Panda
